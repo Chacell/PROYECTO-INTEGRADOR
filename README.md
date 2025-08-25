@@ -168,7 +168,7 @@ python main.py
 
 ---
 
-## atos del Proyecto
+## datos del Proyecto
 - **Universidad:** [Universidad Internacional del Ecuador]  
 - **Carrera:** [Ingenieria en Sitemas de la Informacion]  
 - **Materia:** *Lógica de Programación*  
