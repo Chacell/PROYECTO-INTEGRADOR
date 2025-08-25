@@ -32,6 +32,16 @@ El software permite crear usuarios, generar contraseñas robustas y mantener un 
 
 ---
 
+## Tecnologías Utilizadas  
+- **Lenguaje:** Python 3  
+- **Bibliotecas:**  
+  - `tkinter` → Interfaz gráfica  
+  - `random`, `string` → Generación de contraseñas seguras  
+  - `json` → Manejo y almacenamiento de usuarios  
+  - `os` → Validación de existencia de archivos  
+
+---
+
 ## Características del Software
 
 ### 1. Gestión de Usuarios (JSON)
