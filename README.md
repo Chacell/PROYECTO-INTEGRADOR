@@ -169,8 +169,8 @@ python main.py
 ---
 
 ## datos del Proyecto
-- **Universidad:** [Universidad Internacional del Ecuador]  
-- **Carrera:** [Ingenieria en Sitemas de la Informacion]  
+- **Universidad:** Universidad Internacional del Ecuador
+- **Carrera:** Ingenieria en Sitemas de la Informacion
 - **Materia:** *Lógica de Programación*  
-- **Autora:** [Camila Sumba]  
-- **Fecha:** [agosto / 2025]
+- **Autora:** Camila Sumba  
+- **Fecha:** agosto / 2025
