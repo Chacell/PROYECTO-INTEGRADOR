@@ -121,33 +121,18 @@ A continuación se describe la lógica:
    - Uso de `try/except` para validar entradas numéricas.
    - Mensajes con `messagebox.showerror`, `showinfo`, `showwarning`.
 
----
-
-## Diagramas de Flujo
+Diagramas de Flujo
 
 ### Lógica del Generador de Contraseñas
-
 **Imagen:**  
-`diagramas/logica.png`   
-
-Markdown para incluir la imagen:
-```markdown
-![Diagrama Lógica](diagramas/logica.png)
-```
+![Diagrama Lógica](diagramalogica.png)
 
 ---
 
 ### Flujo de la Interfaz Gráfica
-
 **Imagen:**  
-`diagramas/interfaz.png`
-
-Markdown para incluir la imagen:
-```markdown
 ![Diagrama de la Interfaz](diagramainterfaz.png)
-```
 
----
 
 ## Instalación y Ejecución
 
